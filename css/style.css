@@ -1,0 +1,24 @@
+/* Background */
+
+.bg-blue {background-color: #006cfa;}
+
+.bg-green {background-color: #00e165;}
+
+/* Padding */
+body {padding: 1rem 0;}
+
+.p-1-0 {padding: 1rem 0;}
+
+.p-1 {padding: 1rem;}
+
+/* Text */
+
+.ta-center {text-align: center;}
+
+.c-white {color: white;}
+
+/* Border */
+
+.border {border: 1px solid white;}
+
+.border-blue {border: 1px solid #006cfa;}
